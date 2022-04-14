@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuliaCairo
-- 👀 I’m interested in Python
+- 👀 I’m interested in QA, Python
 - . I'm currently learning QA Testing, Python
 - 💞️ I’m looking to collaborate on Everything :)
 - 📫 How to reach me 
